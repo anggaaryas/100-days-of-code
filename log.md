@@ -37,4 +37,14 @@
 **Thoughts** i think the switch case in kotlin ( when() ) is more usefull than c++ and java
  
 **Link(s) to work**
-1. [DAY 4](https://anggaaryas.wordpress.com/2018/08/06/kotlin-day-4-statement-perulangan/)
+1. [DAY 4](https://anggaaryas.wordpress.com/2018/08/06/kotlin-day-4-statement-percabangan/)
+
+
+### Day 4: August 9, Thursday
+
+**Today's Progress**: learn looping
+
+**Thoughts** love to using index and falue in for statement. Hey, i always forget to type "Int" instead of "int"
+ 
+**Link(s) to work**
+1. [DAY 5](https://anggaaryas.wordpress.com/2018/08/09/kotlin-day-5-statement-perulangan/)
