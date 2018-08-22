@@ -40,7 +40,7 @@
 1. [DAY 4](https://anggaaryas.wordpress.com/2018/08/06/kotlin-day-4-statement-percabangan/)
 
 
-### Day 4: August 9, Thursday
+### Day 5: August 9, Thursday
 
 **Today's Progress**: learn looping
 
@@ -48,3 +48,13 @@
  
 **Link(s) to work**
 1. [DAY 5](https://anggaaryas.wordpress.com/2018/08/09/kotlin-day-5-statement-perulangan/)
+
+
+### Day 6: August 22, Wednesday
+
+**Today's Progress**: learn Function (Part 1)
+
+**Thoughts** ouh, kotlin use first-class function . What is first-class function?! I need read wiki. BTW, i have absent for 2 weeks! maybe i fail to archieve this challenge T-T . But, i must finish this challenge
+ 
+**Link(s) to work**
+1. [DAY 6](https://anggaaryas.wordpress.com/2018/08/22/kotlin-day-6-fungsi-bagian-1/)
